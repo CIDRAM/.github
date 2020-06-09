@@ -1,4 +1,4 @@
-*[A canonical link to the file you're currently reading.](https://github.com/CIDRAM/CIDRAM/blob/v2/CONTRIBUTING.md)*
+*[A canonical link to the file you're currently reading.](https://github.com/CIDRAM/.github/blob/master/CONTRIBUTING.md)*
 
 ## **Want to help?**
 
@@ -75,4 +75,4 @@ For the documentation repository, master is the only branch (we don't need any o
 ---
 
 
-Last Updated: 9 May 2019 (2019.05.09).
+Last Updated: 10 June 2020 (2020.06.10).
