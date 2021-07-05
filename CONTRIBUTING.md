@@ -26,7 +26,7 @@ Anyone interested in contributing to the project is encouraged to do so.
 
 From here onward in this document, the words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY" are to be interpreted in accordance with *[RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)*.
 
-CIDRAM adopts and adheres to *[PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)*, *[PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)*, and *[PSR-4: Autoloader](https://www.php-fig.org/psr/psr-4/)* (as closely as possible, and to the best of our abilities). Whenever possible, any and all future contributions to the codebase SHOULD adopt and adhere to these standards, too. If you're unfamiliar with these, I would recommend reading them carefully.
+CIDRAM adopts and adheres to *[PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)* (which extends *[PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)* and *[PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)*), and *[PSR-4: Autoloader](https://www.php-fig.org/psr/psr-4/)* (as closely as possible, and to the best of our abilities). Whenever possible, any and all future contributions to the codebase SHOULD adopt and adhere to these standards, too. If you're unfamiliar with these, I would recommend reading them carefully.
 
 CIDRAM adopts *[PHPDoc](https://docs.phpdoc.org/references/phpdoc/index.html)* to annotate and describe PHP code. If you're unfamiliar with this, I would recommend reading the linked documentation carefully.
 
@@ -77,4 +77,4 @@ For the [documentation repository](https://github.com/CIDRAM/Docs), "master" is 
 ---
 
 
-Last Updated: 12 July 2020 (2020.07.12).
+Last Updated: 5 July 2021 (2021.07.05).
