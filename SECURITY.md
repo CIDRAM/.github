@@ -5,8 +5,8 @@
 Status | Major Version
 ---|---
 EoL/Dead/Unsupported | v0
-Stable/Mature/Supported | v1~v2
-Unstable/Alpha/Beta/Planning | v3
+Stable/Mature/Supported | v1~v3
+Unstable/Alpha/Beta/Planning | n/a
 
 ## Reporting a Vulnerability
 
