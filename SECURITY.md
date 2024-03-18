@@ -21,7 +21,3 @@ If the vulnerability has already been fixed, is already public knowledge, or has
 However, if the vulnerability hasn't been fixed yet, isn't yet public knowledge, and hasn't yet been publicly disclosed by the project anywhere (e.g., no relevant issues created yet and nothing at any of our channels; i.e., if you've found a "zero-day"), we would ask then that you keep user safety in mind and to report your findings in a responsible, conscientious manner. Public disclosure of previously unknown vulnerabilities and "zero-days", when affecting currently supported versions, could directly put users at risk from those that may wish to do them, their websites, or their data harm. (This, of course, refers only to vulnerabilities; Bugs or faults in the codebase that wouldn't generally be regarded as vulnerabilities could still be posted directly to the issues page).
 
 In cases where reporting to the issues page or to publicly accessible channels would pose such risks to users, or where private communication may be required for any particular reason, you're welcome to contact [me](https://github.com/Maikuolan) by other means (such as email or [private messaging](https://www.facebook.com/caleb.mazalevskis)).
-
-## Currently Known Vulnerabilities
-
-None yet. :-)

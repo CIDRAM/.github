@@ -4,7 +4,7 @@
 
 If you want to report bugs, suggest new features, etc, you should start at the [issues](https://github.com/CIDRAM/CIDRAM/issues) page. Any already reported bugs, requested features, progress checklists, ideas, project discussions, etc should available there, and everyone is welcome to participate and contribute. If you have something to add, whether for an existing issue or a new issue, feel free to do so.
 
-The project is open-source, released by its author under the [GNU/GPLv2 license](https://github.com/CIDRAM/CIDRAM/blob/v2/LICENSE.txt), so if you want fork/copy the project and to make your own modifications, you're welcome to do so. If you feel that your modifications could be beneficial to the project and its community, consider sending a [pull request](https://github.com/CIDRAM/CIDRAM/pulls) (include a description with pull requests, so that we know what we're looking at) so that we can review your modifications and consider integrating them as part of the project.
+The project is open-source, released by its author under the [GNU/GPLv2 license](https://github.com/CIDRAM/CIDRAM/blob/v3/LICENSE.txt), so if you want fork/copy the project and to make your own modifications, you're welcome to do so. If you feel that your modifications could be beneficial to the project and its community, consider sending a [pull request](https://github.com/CIDRAM/CIDRAM/pulls) (include a description with pull requests, so that we know what we're looking at) so that we can review your modifications and consider integrating them as part of the project.
 
 Anyone interested in contributing to the project is encouraged to do so.
 
@@ -77,4 +77,4 @@ For the [documentation repository](https://github.com/CIDRAM/Docs), "master" is 
 ---
 
 
-Last Updated: 5 July 2021 (2021.07.05).
+Last Updated: 18 March 2024 (2024.03.18).
